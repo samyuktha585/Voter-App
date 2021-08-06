@@ -15,8 +15,8 @@ public class NoVoterIDException extends NotEligibleException {
 		// TODO Auto-generated constructor stub
 	}
 
-	public NoVoterIDException(String arg0) {
-		super(arg0);
+	public NoVoterIDException(String msg) {
+		super(msg);
 		// TODO Auto-generated constructor stub
 	}
 
